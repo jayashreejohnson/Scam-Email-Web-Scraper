@@ -31,6 +31,5 @@ This project automates the extraction of scam email records from the 419 Scam Em
 
 ## 📁 Files
 
-- `scraper_419scam.py` – Main scraping script  
-- `cleaned_scams.csv` – Output dataset  
+- `WebScraping.ipynb` – Main scraping script   
 - `README.md` – Documentation
